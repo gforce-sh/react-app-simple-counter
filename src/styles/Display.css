@@ -1,0 +1,20 @@
+.display {
+  text-align: center;
+  background: cyan;
+  width: 150px;
+  height: 80px;
+}
+
+.display-negative {
+  text-align: center;
+  background-color: maroon;
+  width: 150px;
+  height: 80px;
+}
+
+.display-positive {
+  text-align: center;
+  background-color: green;
+  width: 150px;
+  height: 80px;
+}

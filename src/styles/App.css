@@ -1,4 +1,22 @@
-.App {
+
+h1 {
+  text-align: center;
+  justify-content: end;
+}
+
+.counter {
+  display: flex;
+  justify-content: center;
+}
+
+#app {
+  text-align: center;
+  color: white;
+}
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -30,4 +48,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
